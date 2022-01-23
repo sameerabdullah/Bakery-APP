@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="upper_bar_logo_padding">3dp</dimen>
+    <dimen name="cart_icon_toolbar_maps_width">40dp</dimen>
+    <dimen name="cart_count_toolbar_top_margin_maps">8dp</dimen>
+</resources>

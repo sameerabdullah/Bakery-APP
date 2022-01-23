@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#404042</color>
+    <color name="colorPrimaryDark">#cc6020</color>
+    <color name="colorAccent">#cc6020</color>
+
+    <color name="themeStartColor">#404042</color>
+    <color name="themeCenterColor">#cc6020</color>
+    <color name="themeEndColor">#404042</color>
+
+    <color name="splashBackground">#1d2c6f</color>
+    <color name="blackLight">#33000000</color>
+    <color name="whiteLight">#33FFFFFF</color>
+    <color name="mapSimilarColor">#ededed</color>
+    <color name="formBackground">#eeeeee</color>
+    <color name="menuBackground">#cab691</color>
+    <color name="closedLabelTextColor">@color/red</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="green">#3b8509</color>
+    <color name="dark_grey">#818181</color>
+    <color name="yellow">#f28d33</color>
+    <color name="phone_green">#4CAF50</color>
+    <color name="blue">#2196F3</color>
+    <color name="red">#FF0000</color>
+
+    <color name="brown">#B7742A</color>
+
+    <color name="white_light">#00FFFFFF</color>
+
+    <color name="hyperlink_color">#0000EE</color>
+</resources>

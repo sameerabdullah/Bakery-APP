@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bite Kitchenette</string>
+
+    <string name="home_second">Home Second</string>
+
+    // Screen Titles
+
+    <string name="title_home_screen">Menu</string>
+    <string name="title_deals_screen">Deals</string>
+    <string name="title_cart_screen">Cart</string>
+    <string name="title_place_order_screen">Place Order</string>
+</resources>
